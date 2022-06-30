@@ -10,6 +10,7 @@ package jurnal_mod7_1302194007_nkr;
  * @author AMS
  */
 public class Driverbangundatar {
+   
    public static void main (String[] args) {
         BangunDatar_1302194007[] mulai = new BangunDatar_1302194007[3];
         mulai[0] = new Lingkaran_1302194007 ("bulat", 21);
