@@ -14,7 +14,7 @@ public abstract class BangunDatar_1302194007 {
     
     //constructor
     public BangunDatar_1302194007 (String nama) {
-        this.nama = nama;
+        this.nama = nama;;
     }
     
     //setter
